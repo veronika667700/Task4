@@ -1,0 +1,44 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#5f9ea0">
+
+    <Button
+        android:id="@+id/btnOpen4pda"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Открыть vk.com" />
+
+    <Button
+        android:id="@+id/btnOpenImage"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Открыть картинку по ссылке: Нарнияяя" />
+
+    <Button
+        android:id="@+id/btnPage1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Заметался пожар голубой. С.Есенина"/>
+
+    <Button
+        android:id="@+id/btnPage2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Aufbruch in die Moderne. Der Spiegel 2015"/>
+
+    <Button
+        android:id="@+id/btnPage3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Песня о масках. В.Высоцкий"/>
+
+    <Button
+        android:id="@+id/btnPage4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Погода в Кёльне"/>
+
+</LinearLayout>
